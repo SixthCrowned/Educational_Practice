@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Study\Programs\Database Management Software (DMS)\bin\Release\Database Management Software (DMS).exe.config
+C:\Users\User\Desktop\Study\Programs\Database Management Software (DMS)\bin\Release\Database Management Software (DMS).exe
+C:\Users\User\Desktop\Study\Programs\Database Management Software (DMS)\bin\Release\Database Management Software (DMS).pdb
+C:\Users\User\Desktop\Study\Programs\Database Management Software (DMS)\obj\Release\Database Management Software (DMS).csprojAssemblyReference.cache
+C:\Users\User\Desktop\Study\Programs\Database Management Software (DMS)\obj\Release\Database_Management_Software__DMS_.Main.resources
+C:\Users\User\Desktop\Study\Programs\Database Management Software (DMS)\obj\Release\Database_Management_Software__DMS_.Properties.Resources.resources
+C:\Users\User\Desktop\Study\Programs\Database Management Software (DMS)\obj\Release\Database Management Software (DMS).csproj.GenerateResource.cache
+C:\Users\User\Desktop\Study\Programs\Database Management Software (DMS)\obj\Release\Database Management Software (DMS).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Study\Programs\Database Management Software (DMS)\obj\Release\Database Management Software (DMS).exe
+C:\Users\User\Desktop\Study\Programs\Database Management Software (DMS)\obj\Release\Database Management Software (DMS).pdb
