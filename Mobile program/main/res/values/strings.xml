@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="label_chooseTheLanguage">This program is a note that was created so any of the employee could open it at any time</string>
+    <string name="imageView_mainLogo_contentDescription">Main logo</string>
+    <string name="button_start">I get it! Show me it!</string>
+    <string name="button_finish">Thank you for reminding!</string>
+    <string name="textView_setOfRules1">1) Do not violate the rules of ethics</string>
+    <string name="textView_setOfRules2">2) Always be affable and friendly</string>
+    <string name="textView_setOfRules3">3) Treats colleagues on an equal footing</string>
+    <string name="textView_setOfRules4">4) Do everything carefully</string>
+    <string name="textView_setOfRules5">5) Take responsibility for your actions</string>
+</resources>
